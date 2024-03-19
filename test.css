@@ -1,0 +1,12 @@
+body{
+    background-color: skyblue;
+}
+.toer{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 22px;
+    background-color: skyblue;
+}
